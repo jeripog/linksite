@@ -1,1 +1,10 @@
-# linksite
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>YouTube Link</title>
+</head>
+<body>
+  https://youtu.be/z3aW6MP15Wc?si=quhwdYY7xvV8LP8T
+</body>
+</html>
